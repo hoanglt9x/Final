@@ -1,0 +1,26 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "search": "Search",
+    "english": "English version",
+    "vietnamese": "Vietnames version"
+  },
+  "header": {
+    "langue": "Langue"
+  },
+  "footer": {
+    "content": "Division of Engineering Technology - SAMCOM"
+  },
+  "home": {
+    "title": "Welcome",
+    "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This page is made to give you more informations."
+  },
+  "meta":{
+    "home":"Survey And Aerial Mapping One Member Limited Liability"
+  }
+}
